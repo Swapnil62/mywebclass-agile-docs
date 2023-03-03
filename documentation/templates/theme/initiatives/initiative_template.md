@@ -1,8 +1,8 @@
-"Title of the Initiative"
+## Fitness 101
 
-Description: [A brief description of the initiative]
+Description: This project involves creating a website that will have a clean and simple design with an emphasis on providing clear and easy-to-follow information for beginners who are new to working out. The website will also feature a dedicated section "101" style tutorials, providing step-by-step guidance on the basics of exercise form, technique, and workout planning.
 
-Goals: [List the goals or objectives of the initiative]
+Goals: Assist beginners who are starting to exercise with proper exercises depending on their fitness level.
 
 Scope: [Define the scope of the initiative]
 
@@ -12,15 +12,15 @@ Deliverables: [List the expected deliverables of the initiative]
 
 Milestones: [List the major milestones and their timelines]
 
-Constraints: [Identify any constraints or limitations that may impact the initiative]
+Constraints: N/A
 
-Assumptions: [List any assumptions made about the initiative]
+Assumptions: N/A
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: N/A
 
-Dependencies: [List any dependencies that may impact the initiative]
+Dependencies: N/A
 
-Team: [Identify the team members and their roles in the initiative]
+Team: N/A
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
