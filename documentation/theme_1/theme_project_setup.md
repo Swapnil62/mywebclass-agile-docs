@@ -1,9 +1,6 @@
 # Theme 1.0: Project Setup
 ## Overview
-Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
-develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
-solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
-us up for long-term success.
+This project involves creating a website that will have a clean and simple design with an emphasis on providing clear and easy-to-follow information for beginners who are new to working out. The website will also feature a dedicated section "101" style tutorials, providing step-by-step guidance on the basics of exercise form, technique, and workout planning. 
 ## Initiative(s)
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
