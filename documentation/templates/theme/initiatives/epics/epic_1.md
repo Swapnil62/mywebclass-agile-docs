@@ -10,7 +10,7 @@ Dependencies: TBD
 
 Risks: TBD
 
-Estimated Effort: TBD
+Estimated Effort: what is the estimated effort? 
 
 Business Value: TBD
 
