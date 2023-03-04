@@ -22,7 +22,9 @@ Tasks:
 Develop a library of tutorials and interactive features to help beginners learn proper exercise form and technique. 
 
 User Story:
-As someone who has never exercised before, I want to to able to learn the basics of proper form technique for various exercises.### Epic 3 - Minimal Equipment and Space
+As someone who has never exercised before, I want to to able to learn the basics of proper form technique for various exercises.
+
+### Epic 3 - Minimal Equipment and Space
 
 Tasks:
 * Develop a library of written tutorials that explain proper exercise form and technique
