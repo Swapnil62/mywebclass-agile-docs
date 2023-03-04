@@ -19,9 +19,33 @@ Tasks:
 * Develop a user interface that is easy to navigate and visually appealing, with clear description of each workout and accompanying images or videos.
 
 ### Epic 2 - Learn Proper Exercise Form and Technique
+Develop a library of tutorials and interactive features to help beginners learn proper exercise form and technique. 
 
-### Epic 3 - Minimal Equipment and Space
+User Story:
+As someone who has never exercised before, I want to to able to learn the basics of proper form technique for various exercises.### Epic 3 - Minimal Equipment and Space
+
+Tasks:
+* Develop a library of written tutorials that explain proper exercise form and technique
+* Design a user-friendly interface that allows users to easily access and navigate the tutorialsDevelop a database of workouts that require little to no equipment and can be done in a small space.
+
+User Story: As someone who is with limited space and equipment, I want to be able to find workouts that can be done with minimal equipment and in a small space.
+
+Tasks:
+* Develop a database of workouts that will not require any equipment and can be done in small space.
+* Design a search function that will allow users to filter workouts based on equipment needed and space requirements.
+*	Include clear instructions and modifications for each exercise so that users can easily adapt workouts to their specific equipment and space limitations.
+
+
 ### Epic 4 - Quick and Effective Workouts
+Develop a database of quick and effective workouts that can be completed in a short amount of time.
+
+User Story: As someone who is short on time, I want to be able to find quick and effective workouts that I can fit into my busy schedule.
+
+Tasks:
+* Develop database of workouts that can be completed in a short amount of time (Ex. 10-20 minutes)
+* Design a search function that will allow users to filter workout based on time commitment
+* Include information on the intensity level and effectiveness of each workout so that users can chose workouts that are appropriate for their fitness level and goals
+
 ### Epic 5 - Nutrition Information
 Develop a section of the website that provides basic nutrition information and tips for beginners.
 
@@ -32,9 +56,6 @@ Tasks:
 * Design a user-friendly interface that allows users to easily access and navigate the nutrition section of the website
 * Incorporate interactive features such as meal planners or grocery lists to help users plan healthy meals.
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
 
 ## Test plan
-How will this be tested?
+N/A
