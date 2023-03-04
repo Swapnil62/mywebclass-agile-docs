@@ -1,4 +1,6 @@
-# Theme 1.0: Project Setup
+# Theme 1.0: Fitness 101
+Allows Beginners to Learn about Different exercises and workout plan
+
 ## Overview
 This project involves creating a website that will have a clean and simple design with an emphasis on providing clear and easy-to-follow information for beginners who are new to working out. The website will also feature a dedicated section "101" style tutorials, providing step-by-step guidance on the basics of exercise form, technique, and workout planning. 
 
