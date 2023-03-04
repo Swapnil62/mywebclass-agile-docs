@@ -7,7 +7,16 @@ This project involves creating a website that will have a clean and simple desig
 ## Initiative(s)
 To create a website to help beginners who are starting to workout for the first time. This website will have all the necessary workouts and exercises that one can perform. It will also have a page, which will show the users how to perform each exercise with proper form and technique.
 
-### Epic 1 
+### Epic 1 - Browse Workouts
+Develop a workout database with a user-friendly interface that allows beginners to find workouts tailored to their fitness level and goals.
+
+# User Story 
+As a beginner looking to get started with a workout routine, I want to be able to browse a variety of workouts that are tailored to my fitness level and goals.
+
+# Tasks
+* Develop a database of workouts for different fitness levels and goals.
+* Design a search function to allow users to filter workouts based on criteria such as fitness level, type of workout, and target muscle group.
+* Develop a user interface that is easy to navigate and visually appealing, with clear description of each workout and accompanying images or videos.
 ### Epic 2
 ### Epic 3
 ### Epic 4
