@@ -17,11 +17,20 @@ Tasks:
 * Develop a database of workouts for different fitness levels and goals.
 * Design a search function to allow users to filter workouts based on criteria such as fitness level, type of workout, and target muscle group.
 * Develop a user interface that is easy to navigate and visually appealing, with clear description of each workout and accompanying images or videos.
-### Epic 2
-### Epic 3
-### Epic 4
-### Epic 5
 
+### Epic 2 - Learn Proper Exercise Form and Technique
+
+### Epic 3 - Minimal Equipment and Space
+### Epic 4 - Quick and Effective Workouts
+### Epic 5 - Nutrition Information
+Develop a section of the website that provides basic nutrition information and tips for beginners.
+
+User Story: As a beginner looking to improve my health and fitness, I want to have access to basic nutrition information and tips on the website, so that I can learn how to eat healthier and fuel my workouts effectively.
+
+Tasks:
+* Develop a library of nutrition articles and tips geared towards beginners
+* Design a user-friendly interface that allows users to easily access and navigate the nutrition section of the website
+* Incorporate interactive features such as meal planners or grocery lists to help users plan healthy meals.
 
 * Monitoring to continuously improve the quality of our project
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
