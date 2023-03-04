@@ -2,6 +2,7 @@
 
 Description: Allows Beginners to Learn about different exercises and workout plan.
 [consider implementing SEO and performance optimization for the site]
+
 Goals: To help beginners meet their workout goal and keep them motivated to works towards it.
 
 Scope: n/a
